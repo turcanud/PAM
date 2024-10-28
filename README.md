@@ -1,4 +1,4 @@
-# myfirst
+# Laboratoare PAM
 
 A new Flutter project.
 
